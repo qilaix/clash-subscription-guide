@@ -9,6 +9,16 @@ title: "流媒体与 AI 服务访问"
 
 [Clashrun 对比文章](https://clashrun.com/clashjichang/) 整理了多家服务商对 Netflix、Disney+、ChatGPT、Claude、Gemini 等服务的支持介绍。这些是原文记录的支持范围，不能当作本项目已经逐节点验证的解锁结果。
 
+下表将原文中明确提到的服务范围与月付价格放在一起，便于提出更具体的试用问题。支持范围属于原文记录的服务商介绍，没有在本项目中重新验证。
+
+| 服务 | 入门月付参考 | 原文记录的支持介绍 | 付款前需要分别确认 |
+| --- | --- | --- | --- |
+| 魔法棒 | 30 元 / 188GB | Netflix、Disney+、YouTube；ChatGPT、Claude、Gemini | 所购档位的可用地区、目标片库与目标 AI 服务 |
+| NekoLink | 25.90 元 / 150GB | Netflix、Disney+、TikTok；ChatGPT | 原文未据此确认 Claude、Gemini，不能从 ChatGPT 支持推导 |
+| 凿壁 | 22 元 / 80GB | Netflix、Disney+、YouTube、TikTok；ChatGPT、Claude、Gemini | 常用地区节点的当前状态、设备与速率限制 |
+
+完整介绍与测速背景见 [Clashrun 原文](https://clashrun.com/clashjichang/)。此表不声称这些服务在所有节点或所有时段均可用，也不构成规避平台账号、地区或风控规则的承诺。
+
 流媒体可以检查能否登录、能否播放、片库地区是否符合预期；AI 工具则要核对平台当前支持地区、账号资格、出口位置与实际访问状态。一个平台能用，不能推导另一个也能用。地区规则有变化时，以平台当时的官方说明为准。
 
 长期使用同一账号时，应留意策略组是否频繁跨地区切换。因账号资格、风控或服务自身故障造成的问题，不能仅凭更换机场认定能够解决。机场的线路标签、家宽标签也不构成避免风控的保证。
