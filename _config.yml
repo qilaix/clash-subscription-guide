@@ -1,0 +1,7 @@
+title: Clashrun 订阅选购参考
+url: https://qilaix.github.io
+baseurl: /clash-subscription-guide
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude: [README.md]
