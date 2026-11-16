@@ -28,6 +28,7 @@ title: "Clash 机场与订阅选购参考"
 
 ## 按使用需求阅读
 
+- [Clash、机场订阅与小火箭选购资料入口](docs/reading-sources.html)
 - [月付预算与性价比怎么比较](docs/monthly-budget.html)
 - [不限时流量包与备用订阅](docs/backup-traffic.html)
 - [Clash、Clash Verge Rev 与订阅兼容性](docs/clash-compatibility.html)
